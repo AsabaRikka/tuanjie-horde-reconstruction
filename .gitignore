@@ -57,3 +57,14 @@ source_models_v6/
 .DS_Store
 Thumbs.db
 Desktop.ini
+
+# Local reference material kept outside the curated source repository
+reference/
+reference_v2/
+reference_v3/
+reference_quality02/
+scene/
+v6_review.txt
+打开场景.bat
+打开第二版动画.bat
+打开动画工程.bat
