@@ -1,0 +1,27 @@
+{
+  "enemy": {
+    "vertices": 19497,
+    "triangles": 6499,
+    "source": "E:\\codex project\\project 15\\source_models_v6\\enemy\\pbr\\mesh_textured_pbr.glb"
+  },
+  "enemy_far": {
+    "vertices": 3597,
+    "triangles": 1199,
+    "source": "E:\\codex project\\project 15\\source_models_v6\\enemy\\pbr\\mesh_textured_pbr.glb"
+  },
+  "boss": {
+    "vertices": 95997,
+    "triangles": 31999,
+    "source": "E:\\codex project\\project 15\\source_models_v6\\boss\\pbr\\mesh_textured_pbr.glb"
+  },
+  "gate1": {
+    "vertices": 6000,
+    "triangles": 2000,
+    "source": "E:\\codex project\\project 15\\source_models_v6\\gate1\\pbr\\mesh_textured_pbr.glb"
+  },
+  "gate99": {
+    "vertices": 6000,
+    "triangles": 2000,
+    "source": "E:\\codex project\\project 15\\source_models_v6\\gate99\\pbr\\mesh_textured_pbr.glb"
+  }
+}

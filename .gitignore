@@ -1,0 +1,59 @@
+# Unity / Tuanjie generated data
+**/[Ll]ibrary/
+**/[Tt]emp/
+**/[Oo]bj/
+**/[Ll]ogs/
+**/[Uu]ser[Ss]ettings/
+**/[Bb]uild/
+**/[Bb]uilds/
+**/[Vv]alidation/
+**/[Bb]inaries/
+**/[Ii]ntermediate/
+**/[Ss]aved/
+
+# Local/editor state
+.vscode/
+.vs/
+.idea/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.suo
+
+# Large derived media and packaged deliveries
+**/*.mp4
+**/*.mov
+**/*.avi
+**/*.zip
+**/*.7z
+**/*.rar
+**/*.exe
+**/*.dll
+**/*.pdb
+**/*.wav
+**/*.blend
+**/*.blend1
+
+# Historical copies, local backups, bundled tools and logs
+backups/
+restore_v6_rollback/
+tools/
+UEHorde/
+UEHorde_PackageCheck/
+animation/
+animation_v2/
+TuanjieHorde/
+TuanjieHorde_v2/
+TuanjieHorde_v3/
+deliverables/
+deliverables_*/
+source_models_v6/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini

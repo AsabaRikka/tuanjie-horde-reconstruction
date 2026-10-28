@@ -1,0 +1,128 @@
+{
+  "source_capture": "full_hd60_final",
+  "frames_per_second": 60,
+  "duration_seconds": 31.0,
+  "frames": 1860,
+  "native_resolution": [
+    1080,
+    1920
+  ],
+  "forward_only": true,
+  "one_contact_per_projectile": true,
+  "one_enemy_damage_per_projectile": true,
+  "plus99": 0,
+  "plus1": 16,
+  "retreat_commands": 0,
+  "near_crowd_moving_at_start": 352,
+  "near_crowd_alive_at_start": 352,
+  "events": {
+    "gold_hit": [
+      0.3667,
+      1.1,
+      1.8333
+    ],
+    "upgrade": [
+      2.9667
+    ],
+    "post_break": [
+      6.4167,
+      25.6333
+    ],
+    "road_connected": [
+      7.1,
+      26.3167
+    ],
+    "plus1": [
+      8.6,
+      8.75,
+      8.9,
+      9.05,
+      9.2,
+      9.35,
+      9.5,
+      9.65,
+      9.8,
+      9.95,
+      10.1,
+      10.25,
+      10.4,
+      10.55,
+      10.7,
+      10.8667
+    ],
+    "boss_windup": [
+      26.95
+    ],
+    "boss_slam": [
+      27.6
+    ],
+    "defeat": [
+      27.6
+    ]
+  },
+  "physics_tests": {
+    "passed": 16,
+    "failed": 0,
+    "usesProductionProjectilePath": true,
+    "singleTargetDamage": true,
+    "supportPosesChecked": 482
+  },
+  "minimum_plus99_clearance": 0.8144925236701965,
+  "maximum_beam_joint_gap": 6.556510925292969e-07,
+  "v6_event_count_in_window": 9545,
+  "sample_event_count": 10554,
+  "v6_events_identical": false,
+  "v6_event_types": {
+    "shot": 3197,
+    "gold_hit": 3,
+    "projectile_hit": 2340,
+    "crowd_source": 237,
+    "enemy_hit": 489,
+    "direct_enemy_damage": 440,
+    "upgrade": 1,
+    "triangle_pass": 206,
+    "triangle_supported": 2,
+    "left_survivor_sample": 510,
+    "bar_hit": 356,
+    "post_hit": 927,
+    "post_break": 2,
+    "bar_crush": 49,
+    "bar_floor": 2,
+    "road_connected": 2,
+    "lane_unlock": 2,
+    "gate_consume": 16,
+    "plus1": 16,
+    "gate_recycle": 148,
+    "boss_hit": 597,
+    "boss_windup": 1,
+    "boss_slam": 1,
+    "defeat": 1
+  },
+  "sample_event_types": {
+    "shot": 3619,
+    "gold_hit": 3,
+    "projectile_hit": 2579,
+    "crowd_source": 242,
+    "triangle_pass": 193,
+    "gold_fracture": 1,
+    "left_survivor_sample": 617,
+    "upgrade": 1,
+    "enemy_hit": 487,
+    "direct_enemy_damage": 423,
+    "triangle_supported": 2,
+    "bar_hit": 385,
+    "post_hit": 1094,
+    "post_break": 2,
+    "bar_crush": 64,
+    "bar_floor": 2,
+    "road_connected": 2,
+    "lane_unlock": 2,
+    "gate_consume": 16,
+    "plus1": 16,
+    "gate_recycle": 149,
+    "boss_hit": 652,
+    "boss_windup": 1,
+    "boss_slam": 1,
+    "defeat": 1
+  }
+}
